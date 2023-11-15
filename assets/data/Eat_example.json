@@ -1,0 +1,70 @@
+{
+  "eat": [
+    {
+      "name": "Комбо с воппером",
+      "price": "189 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Воппер с сыром",
+      "price": "150 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Крабсбургер",
+      "price": "299 ₽",
+      "type": "Креветки",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Воппер с мясом",
+      "price": "189 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Комбо на двоих Чизбургер",
+      "price": "188 ₽",
+      "type": "Комбо",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Нагеттсы",
+      "price": "189 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Вок",
+      "price": "189 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Суп",
+      "price": "189 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Кола",
+      "price": "289 ₽",
+      "type": "Популярные блюда",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Кола + лед",
+      "price": "50 ₽",
+      "type": "Комбо",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    },
+    {
+      "name": "Тест",
+      "price": "189 ₽",
+      "type": "Комбо",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaLxlWddaT7zTa9Ou4KpbRsom8scLa3gnbA&usqp=CAU"
+    }
+  ]
+}

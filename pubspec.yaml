@@ -1,0 +1,59 @@
+name: progressive_test
+version: 0.0.1+1
+description: a Flutter progressive_test App.
+publish_to: none
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=3.13.2"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Color theme
+  material_color_utilities: ^0.5.0
+
+  # Localizations & Intl
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.0
+
+  # Navigation
+  auto_route: ^7.8.3
+
+  # Widgets
+  flutter_svg: ^2.0.7
+
+  # Bloc
+  flutter_bloc: ^8.1.3
+
+dev_dependencies:
+  # Analyzer extensions
+  dart_code_metrics_presets: ^2.4.0
+  flutter_lints: ^2.0.3
+
+  # Code generation
+  auto_route_generator: ^7.3.1
+  build_runner: ^2.4.6
+  flutter_gen_runner: ^5.3.1
+  freezed: ^2.3.5
+  json_serializable: ^6.7.0
+
+#dependency_overrides:
+flutter_gen:
+  output: lib/src/core/resources
+  line_length: 80
+
+  # Optional
+  integrations:
+    flutter_svg: true
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/data/
+
